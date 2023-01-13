@@ -1,5 +1,17 @@
 # Multithread com Python
 
-Leonardo Gomes Nunes
+Códigos implementados como parte do trabalho de conclusão de curso.
 
-Trabalho de conclusão de curso apresentado ao Instituto de Ciência e Tecnologia – UNIFESP, como parte das atividades para obtenção do título de Bacharel em Ciência da Computação.
+## Ambiente utilizado:
+- Python v3.9.6;
+- Numba v0.56.4;
+- NumPy v1.23.5;
+- gcc (GCC) v11.2.0
+
+## Exemplo de execução:
+- C:
+    - gcc serial.c -w -o serial -lm -O3
+    - ./serial
+
+- Python:
+    - py serial.py
